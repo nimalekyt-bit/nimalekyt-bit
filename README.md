@@ -1,22 +1,25 @@
+<!-- Premium Typographic Header -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=250&section=header&text=Woods&fontSize=90&fontColor=7AA2F7&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=75&descAlign=50" width="100%"/>
+</div>
 
-<h1 align="center">Hi, I'm Woods 👋</h1>
+<!-- Animated Greeting & Role -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Woods+👋;Architecting+the+future+of+the+web;Full-Stack+Engineer+%7C+Creative+Coder;Transforming+ideas+into+digital+reality" alt="Typing SVG" />
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Creative+Problem+Solver;Building+scalable+web+applications" alt="Typing SVG" />
-</a>
-
+<!-- Social Shields -->
 <p align="center">
   <a href="https://github.com/nimalekyt-bit"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://t.me/woodskilla"><img src="https://img.shields.io/badge/Telegram-@woodskilla-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:nikitanimalkov@gmail.com"><img src="https://img.shields.io/badge/Email-nikitanimalkov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
-<br/>
-
-### 💻 `developer.config.json`
+### 💻 `system.info()`
 
 ```javascript
 /**
@@ -27,12 +30,14 @@
 class Woods extends Developer {
   constructor() {
     super();
-    this.status = "Architecting the future of the web";
+    this.status = "Building exceptional digital experiences";
     this.techStack = {
-      frontend: ["React", "Next.js", "TailwindCSS", "TypeScript"],
+      frontend: ["React", "Next.js", "TailwindCSS"],
       backend: ["Python", "FastAPI", "Node.js"],
-      infrastructure: ["Docker", "Vercel", "GitHub Actions"]
+      database: ["PostgreSQL", "MySQL", "MongoDB"],
+      devops: ["Docker", "GitHub Actions", "Vercel"]
     };
+    this.currentFocus = "Architecting scalable cloud solutions & Web3";
     this.contact = {
       email: "nikitanimalkov@gmail.com",
       telegram: "@woodskilla"
@@ -45,15 +50,19 @@ class Woods extends Developer {
 }
 ```
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ### 🛠️ Technology Arsenal
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,fastapi,nodejs,tailwind,styledcomponents,html,css,git,github,docker,vscode&theme=dark&perline=15" />
-</div>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ### 📊 Performance Metrics
 
@@ -68,11 +77,13 @@ class Woods extends Developer {
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimalekyt-bit&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimalekyt-bit&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" width="96%" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ### 🚀 Highlighted Repositories
 
@@ -98,18 +109,20 @@ class Woods extends Developer {
   </tr>
 </table>
 
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Activity (Snake Algorithm)
 
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimalekyt-bit/nimalekyt-bit/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nimalekyt-bit/nimalekyt-bit/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nimalekyt-bit/nimalekyt-bit/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nimalekyt-bit/nimalekyt-bit/output/github-contribution-grid-snake.svg" width="800">
   </picture>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nimalekyt-bit&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nimalekyt-bit&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile Views" />
+</p>
