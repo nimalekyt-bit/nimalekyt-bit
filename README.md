@@ -1,21 +1,21 @@
-<!-- Header -->
+<!-- Ultimate Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7AA2F7&height=250&section=header&text=Woods&fontSize=80&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20Creative%20Developer&descAlignY=70&descAlign=50" width="100%"/>
+  <a href="#">
+    <img src="assets/banner.png" width="100%" alt="Cyberpunk Header" />
+  </a>
 </div>
 
-<!-- Typing SVG -->
+<!-- Animated Greeting & Role -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+exceptional+digital+experiences;Next.js+%7C+React+%7C+Python+%7C+FastAPI;Turning+complex+problems+into+elegant+code" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Woods+👋;Architecting+the+future+of+the+web;Full-Stack+Engineer+%7C+Creative+Coder;Transforming+ideas+into+digital+reality" alt="Typing SVG" />
 </p>
 
-<!-- Badges -->
+<!-- Social Shields -->
 <p align="center">
-  <a href="https://github.com/nimalekyt-bit"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=7AA2F7" alt="Telegram" /></a>
-  <a href="mailto:woods@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email" /></a>
+  <a href="https://github.com/nimalekyt-bit"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=7AA2F7" /></a>
+  <a href="mailto:woods@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
 </p>
 
 <!-- Trophies -->
@@ -23,52 +23,66 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nimalekyt-bit&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
-### 👨‍💻 `developer.config.json`
+### 💻 `system.info()`
 
-```json
-{
-  "name": "Woods",
-  "role": "Full-Stack Engineer",
-  "focus": [
-    "Scalable Backend Architecture",
-    "High-Performance Frontend",
-    "Creative Micro-Animations"
-  ],
-  "tech_stack": {
-    "frontend": ["React", "Next.js", "TailwindCSS"],
-    "backend": ["Python", "FastAPI", "Node.js"],
-    "infrastructure": ["Docker", "Vercel", "GitHub Actions"]
-  },
-  "contact": "woods@example.com"
+```javascript
+/**
+ * @class Developer
+ * @name Woods
+ * @role Full-Stack Software Engineer
+ */
+class Woods extends Developer {
+  constructor() {
+    super();
+    this.status = "Building exceptional digital experiences";
+    this.techStack = {
+      frontend: ["React", "Next.js", "TailwindCSS"],
+      backend: ["Python", "FastAPI", "Node.js"],
+      database: ["PostgreSQL", "MySQL", "MongoDB"],
+      devops: ["Docker", "GitHub Actions", "Vercel"]
+    };
+    this.currentFocus = "Architecting scalable cloud solutions & Web3";
+  }
+
+  execute() {
+    return this.techStack.frontend.concat(this.techStack.backend).join(" ⚡ ");
+  }
 }
 ```
 
----
-
-### 🛠️ Tech Arsenal
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,fastapi,nodejs,tailwind,html,css,git,github,docker,vscode&theme=dark&perline=14" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
----
-
-### 📈 Analytics Dashboard
+### 🛠️ Technology Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimalekyt-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimalekyt-bit&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,fastapi,nodejs,tailwind,styledcomponents,html,css,git,github,docker,vscode&theme=dark&perline=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimalekyt-bit&theme=tokyonight&hide_border=true&background=0D1117" width="96%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
----
+### 📊 Performance Metrics
 
-### 🔥 Top Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimalekyt-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimalekyt-bit&layout=donut&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimalekyt-bit&theme=tokyonight&hide_border=true&background=00000000" width="96%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+### 🚀 Highlighted Repositories
 
 <p align="center">
   <a href="https://github.com/nimalekyt-bit/visitka-site">
@@ -84,9 +98,11 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Activity (Snake Algorithm)
 
 <p align="center">
   <picture>
@@ -96,7 +112,6 @@
   </picture>
 </p>
 
-<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nimalekyt-bit&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile Views" />
 </p>
