@@ -1,8 +1,6 @@
-<!-- Ultimate Banner -->
+<!-- Premium Typographic Header -->
 <div align="center">
-  <a href="#">
-    <img src="assets/banner.png" width="100%" alt="Cyberpunk Header" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=250&section=header&text=Woods&fontSize=90&fontColor=7AA2F7&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=75&descAlign=50" width="100%"/>
 </div>
 
 <!-- Animated Greeting & Role -->
