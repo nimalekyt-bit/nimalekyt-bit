@@ -10,14 +10,12 @@
 
 <!-- Social Shields -->
 <p align="center">
-  <a href="https://github.com/nimalekyt-bit"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://t.me/woodskilla"><img src="https://img.shields.io/badge/Telegram-@woodskilla-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:nikitanimalkov@gmail.com"><img src="https://img.shields.io/badge/Email-nikitanimalkov@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/nimalekyt-bit"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
+  <a href="https://t.me/woodskilla"><img src="https://img.shields.io/badge/Telegram-@woodskilla-0D1117?style=for-the-badge&logo=telegram&logoColor=58A6FF" /></a>
+  <a href="mailto:nikitanimalkov@gmail.com"><img src="https://img.shields.io/badge/Email-nikitanimalkov@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+<br/>
 
 ### 💻 `system.info()`
 
@@ -50,70 +48,56 @@ class Woods extends Developer {
 }
 ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+<br/>
 
-### 🛠️ Technology Arsenal
+<div align="center">
+  <img src="assets/tech_header.svg" width="100%" alt="Technology Arsenal"/>
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,fastapi,nodejs,tailwind,styledcomponents,html,css,git,github,docker,vscode&theme=dark&perline=15" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+<br/>
 
-### 📊 Performance Metrics
-
-<table align="center" style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td align="center" style="border: none; background: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=nimalekyt-bit&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-    </td>
-    <td align="center" style="border: none; background: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimalekyt-bit&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/stats_header.svg" width="100%" alt="Performance Metrics"/>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimalekyt-bit&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" width="96%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nimalekyt-bit&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=58A6FF&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimalekyt-bit&layout=donut&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=58A6FF&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimalekyt-bit&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=58A6FF&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" width="96%" />
 </p>
 
-### 🚀 Highlighted Repositories
+<br/>
 
-<table align="center" style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td align="center" style="border: none; background: transparent;">
-      <a href="https://github.com/nimalekyt-bit/visitka-site">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimalekyt-bit&repo=visitka-site&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-      </a>
-    </td>
-    <td align="center" style="border: none; background: transparent;">
-      <a href="https://github.com/nimalekyt-bit/assetforge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimalekyt-bit&repo=assetforge&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none; background: transparent;">
-    <td align="center" colspan="2" style="border: none; background: transparent;">
-      <a href="https://github.com/nimalekyt-bit/dijkstra-visualizer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimalekyt-bit&repo=dijkstra-visualizer&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/projects_header.svg" width="100%" alt="Highlighted Repositories"/>
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <a href="https://github.com/nimalekyt-bit/visitka-site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimalekyt-bit&repo=visitka-site&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=58A6FF&border_radius=10" width="48%" />
+  </a>
+  <a href="https://github.com/nimalekyt-bit/assetforge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimalekyt-bit&repo=assetforge&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=58A6FF&border_radius=10" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/nimalekyt-bit/dijkstra-visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimalekyt-bit&repo=dijkstra-visualizer&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=58A6FF&border_radius=10" width="48%" />
+  </a>
 </p>
 
-### 🐍 Contribution Activity (Snake Algorithm)
+<br/>
+
+<div align="center">
+  <img src="assets/activity_header.svg" width="100%" alt="Contribution Activity"/>
+</div>
 
 <p align="center">
   <picture>
@@ -124,5 +108,5 @@ class Woods extends Developer {
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nimalekyt-bit&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nimalekyt-bit&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 </p>
