@@ -1,112 +1,85 @@
-<!-- Premium Typographic Header -->
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Woods"/>
+  <img src="assets/hero.png" width="100%" alt="Nikita, woodskilla — full-stack product engineer" />
+
+  <br><br>
+
+  <strong>I build production systems from the first architecture sketch to deployment and support.</strong>
+
+  <br><br>
+
+  <a href="https://t.me/woodskilla"><strong>Telegram ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:nikitanimalkov@gmail.com"><strong>Email ↗</strong></a>
 </div>
 
-<!-- Animated Greeting & Role -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=60&lines=Hi,+I'm+Woods+👋;Architecting+the+future+of+the+web;Full-Stack+Engineer+%7C+Creative+Coder;Transforming+ideas+into+digital+reality" alt="Typing SVG" />
-</p>
+<br>
 
-<!-- Social Shields -->
-<p align="center">
-  <a href="https://github.com/nimalekyt-bit"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
-  <a href="https://t.me/woodskilla"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=58A6FF" /></a>
-  <a href="mailto:nikitanimalkov@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=58A6FF" /></a>
-</p>
+I’m Nikita, a full-stack developer working under the name **woodskilla**. I take ownership of the interface, backend, data model and release pipeline, so a product moves through one coherent technical system.
 
-<br/>
+My strongest stack is **Next.js + TypeScript** on the frontend and **Python + FastAPI** on the backend. I work with PostgreSQL, Redis, Docker and GitHub Actions when the product needs them.
 
-### 💻 `system.info()`
+<br>
 
-```javascript
-/**
- * @class Developer
- * @name Woods
- * @role Full-Stack Software Engineer
- */
-class Woods extends Developer {
-  constructor() {
-    super();
-    this.status = "Building exceptional digital experiences";
-    this.techStack = {
-      frontend: ["React", "Next.js", "TailwindCSS"],
-      backend: ["Python", "FastAPI", "Node.js"],
-      database: ["PostgreSQL", "MySQL", "MongoDB"],
-      devops: ["Docker", "GitHub Actions", "Vercel"]
-    };
-    this.currentFocus = "Architecting scalable cloud solutions & Web3";
-    this.contact = {
-      email: "nikitanimalkov@gmail.com",
-      telegram: "@woodskilla"
-    };
-  }
+## Selected builds
 
-  execute() {
-    return this.techStack.frontend.concat(this.techStack.backend).join(" ⚡ ");
-  }
-}
-```
+<table>
+  <tr>
+    <td width="33.33%" valign="top">
+      <h3>01 / AssetForge</h3>
+      <p>A local-first image pipeline for background removal, smart crop and multi-format export.</p>
+      <p>I built the processing core, Web UI, CLI, desktop wrapper and SaaS layer.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>ONNX</code> <code>Docker</code></p>
+      <a href="https://github.com/nimalekyt-bit/assetforge"><strong>View repository →</strong></a>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3>02 / GraphLab</h3>
+      <p>An interactive workspace for Dijkstra, Bellman–Ford and Floyd–Warshall algorithms.</p>
+      <p>Includes timeline controls, graph persistence, performance tests and PDF export.</p>
+      <p><code>JavaScript</code> <code>Cytoscape.js</code> <code>Chart.js</code></p>
+      <a href="https://github.com/nimalekyt-bit/dijkstra-visualizer"><strong>View repository →</strong></a>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3>03 / Portfolio System</h3>
+      <p>A responsive portfolio with art-directed motion and an integrated content studio.</p>
+      <p>Editors manage projects and copy through Sanity without changing the codebase.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Sanity</code></p>
+      <a href="https://github.com/nimalekyt-bit/visitka-site"><strong>View repository →</strong></a>
+    </td>
+  </tr>
+</table>
 
-<br/>
+<br>
 
-<div align="center">
-  <img src="assets/tech_header.svg" width="100%" alt="Technology Arsenal"/>
-</div>
+## What I own
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mysql,docker,git,github,vscode&theme=dark" />
-</p>
+| Product engineering | Backend and data |
+| :--- | :--- |
+| I turn a loose brief into a clear scope, then build the interface around real user flows. | I design APIs, data models, authentication, payments and admin tools. |
 
-<br/>
+| Delivery | Production support |
+| :--- | :--- |
+| I set up containers, CI/CD, releases and monitoring as part of the build. | I stay with the system after launch and handle fixes, maintenance and the next release. |
+
+<br>
+
+## Core stack
 
 <div align="center">
-  <img src="assets/stats_header.svg" width="100%" alt="Performance Metrics"/>
+  <code>TypeScript</code>&nbsp;
+  <code>Next.js</code>&nbsp;
+  <code>React</code>&nbsp;
+  <code>Python</code>&nbsp;
+  <code>FastAPI</code>&nbsp;
+  <code>PostgreSQL</code>&nbsp;
+  <code>Redis</code>&nbsp;
+  <code>Docker</code>&nbsp;
+  <code>GitHub Actions</code>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimalekyt-bit&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimalekyt-bit&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimalekyt-bit&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" width="80%" />
-</p>
-
-<br/>
+<br>
 
 <div align="center">
-  <img src="assets/projects_header.svg" width="100%" alt="Highlighted Repositories"/>
+  <strong>Need one owner across the stack?</strong>
+  <br><br>
+  <a href="https://t.me/woodskilla">Telegram</a> · <a href="mailto:nikitanimalkov@gmail.com">Email</a>
 </div>
-
-<p align="center">
-  <a href="https://github.com/nimalekyt-bit/visitka-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimalekyt-bit&repo=visitka-site&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="32%" />
-  </a>
-  <a href="https://github.com/nimalekyt-bit/assetforge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimalekyt-bit&repo=assetforge&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="32%" />
-  </a>
-  <a href="https://github.com/nimalekyt-bit/dijkstra-visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nimalekyt-bit&repo=dijkstra-visualizer&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="32%" />
-  </a>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="assets/activity_header.svg" width="100%" alt="Contribution Activity"/>
-</div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimalekyt-bit/nimalekyt-bit/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nimalekyt-bit/nimalekyt-bit/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nimalekyt-bit/nimalekyt-bit/output/github-contribution-grid-snake.svg" width="800">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nimalekyt-bit&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
-</p>
