@@ -1,0 +1,9 @@
+<svg width="760" height="144" viewBox="0 0 760 144" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1B31"/><stop offset="1" stop-color="#05070D"/></linearGradient></defs>
+  <rect x="2" y="2" width="756" height="140" rx="22" fill="url(#bg)" stroke="#168FFF" stroke-width="3"/>
+  <circle cx="75" cy="72" r="39" fill="#087BFF" fill-opacity=".18" stroke="#168FFF" stroke-width="2"/>
+  <path d="M50 70L94 51L83 94L69 80L61 88L61 76Z" fill="#58C8FF"/>
+  <text x="138" y="64" fill="#F2F7FF" font-family="Arial, sans-serif" font-size="34" font-weight="900" letter-spacing="2">TELEGRAM</text>
+  <text x="138" y="101" fill="#7E9CBC" font-family="Consolas, monospace" font-size="23">@woodskilla</text>
+  <path d="M665 72H714M697 54L715 72L697 90" fill="none" stroke="#58C8FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

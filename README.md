@@ -1,85 +1,47 @@
 <div align="center">
   <img src="assets/hero.png" width="100%" alt="Nikita, woodskilla — full-stack product engineer" />
 
+  <br>
+
+  <img src="assets/about.png" width="100%" alt="About Nikita: full product ownership, three years in development, solo full-stack, Moscow UTC+3" />
+
+  <br>
+
+  <img src="assets/selected-builds.png" width="100%" alt="Selected builds" />
+
+  <a href="https://github.com/nimalekyt-bit/obs-control-center">
+    <img src="assets/project-obs.png" width="100%" alt="OBS Control Center — widgets, scenes, telemetry and diagnostics in one local workspace" />
+  </a>
+
+  <br>
+
+  <a href="https://github.com/nimalekyt-bit/assetforge">
+    <img src="assets/project-assetforge.png" width="100%" alt="AssetForge — background removal, smart crop and multi-format export" />
+  </a>
+
+  <br>
+
+  <a href="https://github.com/nimalekyt-bit/dijkstra-visualizer">
+    <img src="assets/project-graphlab.png" width="100%" alt="GraphLab — interactive shortest-path algorithm workspace" />
+  </a>
+
   <br><br>
 
-  <strong>I build production systems from the first architecture sketch to deployment and support.</strong>
+  <img src="assets/capabilities.png" width="100%" alt="Capabilities: product engineering, backend and data, delivery, production support" />
 
-  <br><br>
+  <br>
 
-  <a href="https://t.me/woodskilla"><strong>Telegram ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:nikitanimalkov@gmail.com"><strong>Email ↗</strong></a>
-</div>
+  <img src="assets/stack.png" width="100%" alt="Core stack: TypeScript, Next.js, React, Python, FastAPI, PostgreSQL, Redis, Docker, GitHub Actions, Sanity, Electron and Node.js" />
 
-<br>
+  <br>
 
-I’m Nikita, a full-stack developer working under the name **woodskilla**. I take ownership of the interface, backend, data model and release pipeline, so a product moves through one coherent technical system.
+  <img src="assets/contact-heading.png" width="100%" alt="Let's build something useful" />
 
-My strongest stack is **Next.js + TypeScript** on the frontend and **Python + FastAPI** on the backend. I work with PostgreSQL, Redis, Docker and GitHub Actions when the product needs them.
-
-<br>
-
-## Selected builds
-
-<table>
-  <tr>
-    <td width="33.33%" valign="top">
-      <h3>01 / AssetForge</h3>
-      <p>A local-first image pipeline for background removal, smart crop and multi-format export.</p>
-      <p>I built the processing core, Web UI, CLI, desktop wrapper and SaaS layer.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>ONNX</code> <code>Docker</code></p>
-      <a href="https://github.com/nimalekyt-bit/assetforge"><strong>View repository →</strong></a>
-    </td>
-    <td width="33.33%" valign="top">
-      <h3>02 / GraphLab</h3>
-      <p>An interactive workspace for Dijkstra, Bellman–Ford and Floyd–Warshall algorithms.</p>
-      <p>Includes timeline controls, graph persistence, performance tests and PDF export.</p>
-      <p><code>JavaScript</code> <code>Cytoscape.js</code> <code>Chart.js</code></p>
-      <a href="https://github.com/nimalekyt-bit/dijkstra-visualizer"><strong>View repository →</strong></a>
-    </td>
-    <td width="33.33%" valign="top">
-      <h3>03 / Portfolio System</h3>
-      <p>A responsive portfolio with art-directed motion and an integrated content studio.</p>
-      <p>Editors manage projects and copy through Sanity without changing the codebase.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Sanity</code></p>
-      <a href="https://github.com/nimalekyt-bit/visitka-site"><strong>View repository →</strong></a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## What I own
-
-| Product engineering | Backend and data |
-| :--- | :--- |
-| I turn a loose brief into a clear scope, then build the interface around real user flows. | I design APIs, data models, authentication, payments and admin tools. |
-
-| Delivery | Production support |
-| :--- | :--- |
-| I set up containers, CI/CD, releases and monitoring as part of the build. | I stay with the system after launch and handle fixes, maintenance and the next release. |
-
-<br>
-
-## Core stack
-
-<div align="center">
-  <code>TypeScript</code>&nbsp;
-  <code>Next.js</code>&nbsp;
-  <code>React</code>&nbsp;
-  <code>Python</code>&nbsp;
-  <code>FastAPI</code>&nbsp;
-  <code>PostgreSQL</code>&nbsp;
-  <code>Redis</code>&nbsp;
-  <code>Docker</code>&nbsp;
-  <code>GitHub Actions</code>
-</div>
-
-<br>
-
-<div align="center">
-  <strong>Need one owner across the stack?</strong>
-  <br><br>
-  <a href="https://t.me/woodskilla">Telegram</a> · <a href="mailto:nikitanimalkov@gmail.com">Email</a>
+  <a href="https://t.me/woodskilla">
+    <img src="assets/contact-telegram.png" width="48%" alt="Contact woodskilla on Telegram" />
+  </a>
+  &nbsp;
+  <a href="mailto:nikitanimalkov@gmail.com">
+    <img src="assets/contact-email.png" width="48%" alt="Send Nikita an email" />
+  </a>
 </div>

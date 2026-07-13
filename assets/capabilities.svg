@@ -1,0 +1,11 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="1596" height="516" rx="28" fill="#05070D" stroke="#164A80" stroke-width="3"/>
+  <text x="64" y="72" fill="#5EAFFF" font-family="Consolas, monospace" font-size="22" font-weight="700" letter-spacing="3">CAPABILITIES / 03</text>
+  <text x="64" y="146" fill="#F3F7FF" font-family="Arial, sans-serif" font-size="58" font-weight="900" letter-spacing="-2">FROM BRIEF TO PRODUCTION</text>
+  <line x1="64" y1="182" x2="1536" y2="182" stroke="#164A80"/>
+  <line x1="800" y1="182" x2="800" y2="468" stroke="#164A80"/><line x1="64" y1="326" x2="1536" y2="326" stroke="#164A80"/>
+  <text x="64" y="232" fill="#087BFF" font-family="Arial, sans-serif" font-size="34" font-weight="900">01</text><text x="130" y="231" fill="#F3F7FF" font-family="Arial, sans-serif" font-size="28" font-weight="800">PRODUCT ENGINEERING</text><text x="130" y="274" fill="#93A8C0" font-family="Arial, sans-serif" font-size="23">Scope, user flows and interface.</text>
+  <text x="858" y="232" fill="#087BFF" font-family="Arial, sans-serif" font-size="34" font-weight="900">02</text><text x="924" y="231" fill="#F3F7FF" font-family="Arial, sans-serif" font-size="28" font-weight="800">BACKEND &amp; DATA</text><text x="924" y="274" fill="#93A8C0" font-family="Arial, sans-serif" font-size="23">APIs, auth, data models and admin tools.</text>
+  <text x="64" y="378" fill="#087BFF" font-family="Arial, sans-serif" font-size="34" font-weight="900">03</text><text x="130" y="377" fill="#F3F7FF" font-family="Arial, sans-serif" font-size="28" font-weight="800">DELIVERY</text><text x="130" y="420" fill="#93A8C0" font-family="Arial, sans-serif" font-size="23">Docker, CI/CD, releases and monitoring.</text>
+  <text x="858" y="378" fill="#087BFF" font-family="Arial, sans-serif" font-size="34" font-weight="900">04</text><text x="924" y="377" fill="#F3F7FF" font-family="Arial, sans-serif" font-size="28" font-weight="800">PRODUCTION SUPPORT</text><text x="924" y="420" fill="#93A8C0" font-family="Arial, sans-serif" font-size="23">Fixes, maintenance and the next release.</text>
+</svg>

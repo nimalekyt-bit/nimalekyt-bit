@@ -1,0 +1,19 @@
+<svg width="1600" height="270" viewBox="0 0 1600 270" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="1596" height="266" rx="28" fill="#05070D" stroke="#164A80" stroke-width="3"/>
+  <text x="64" y="70" fill="#5EAFFF" font-family="Consolas, monospace" font-size="22" font-weight="700" letter-spacing="3">TOOLBOX / 04</text>
+  <text x="64" y="137" fill="#F3F7FF" font-family="Arial, sans-serif" font-size="52" font-weight="900">CORE STACK</text>
+  <g font-family="Consolas, monospace" font-size="21" font-weight="700" fill="#CFE5FF">
+    <rect x="470" y="75" width="160" height="58" rx="12" fill="#0A1B31" stroke="#164A80"/><text x="505" y="112">TYPESCRIPT</text>
+    <rect x="644" y="75" width="130" height="58" rx="12" fill="#0A1B31" stroke="#164A80"/><text x="676" y="112">NEXT.JS</text>
+    <rect x="788" y="75" width="120" height="58" rx="12" fill="#0A1B31" stroke="#164A80"/><text x="822" y="112">REACT</text>
+    <rect x="922" y="75" width="125" height="58" rx="12" fill="#0A1B31" stroke="#164A80"/><text x="952" y="112">PYTHON</text>
+    <rect x="1061" y="75" width="130" height="58" rx="12" fill="#0A1B31" stroke="#164A80"/><text x="1092" y="112">FASTAPI</text>
+    <rect x="1205" y="75" width="165" height="58" rx="12" fill="#0A1B31" stroke="#164A80"/><text x="1232" y="112">POSTGRESQL</text>
+    <rect x="1384" y="75" width="110" height="58" rx="12" fill="#0A1B31" stroke="#164A80"/><text x="1410" y="112">REDIS</text>
+    <rect x="470" y="149" width="125" height="58" rx="12" fill="#0A1B31" stroke="#164A80"/><text x="500" y="186">DOCKER</text>
+    <rect x="609" y="149" width="210" height="58" rx="12" fill="#0A1B31" stroke="#164A80"/><text x="636" y="186">GITHUB ACTIONS</text>
+    <rect x="833" y="149" width="135" height="58" rx="12" fill="#0A1B31" stroke="#164A80"/><text x="865" y="186">SANITY</text>
+    <rect x="982" y="149" width="165" height="58" rx="12" fill="#0A1B31" stroke="#164A80"/><text x="1012" y="186">ELECTRON</text>
+    <rect x="1161" y="149" width="145" height="58" rx="12" fill="#0A1B31" stroke="#164A80"/><text x="1192" y="186">NODE.JS</text>
+  </g>
+</svg>
