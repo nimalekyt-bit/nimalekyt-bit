@@ -25,7 +25,7 @@
     <img src="assets/project-graphlab.png" width="100%" alt="GraphLab — interactive shortest-path algorithm workspace" />
   </a>
 
-  <br><br>
+  <br>
 
   <img src="assets/capabilities.png" width="100%" alt="Capabilities: product engineering, backend and data, delivery, production support" />
 

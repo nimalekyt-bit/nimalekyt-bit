@@ -1,6 +1,6 @@
 <svg width="1600" height="360" viewBox="0 0 1600 360" xmlns="http://www.w3.org/2000/svg">
   <defs><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#168FFF" stroke-opacity=".08"/></pattern><linearGradient id="blue"><stop stop-color="#00B7FF"/><stop offset="1" stop-color="#2445FF"/></linearGradient></defs>
-  <rect x="2" y="2" width="1596" height="356" rx="26" fill="#05070D" stroke="#164A80" stroke-width="3"/><rect x="2" y="2" width="1596" height="356" rx="26" fill="url(#grid)"/>
+  <rect width="1600" height="360" fill="#03050A"/><rect x="2" y="2" width="1596" height="356" rx="26" fill="#05070D" stroke="#164A80" stroke-width="3"/><rect x="2" y="2" width="1596" height="356" rx="26" fill="url(#grid)"/>
   <g transform="translate(58 58)"><rect width="232" height="244" rx="24" fill="#081526" stroke="#168FFF" stroke-width="2"/><circle cx="116" cy="122" r="68" fill="none" stroke="url(#blue)" stroke-width="12"/><path d="M116 54C146 76 154 103 140 127C124 154 91 157 69 140M174 131C144 148 115 144 101 120C85 93 98 63 124 50M68 153C68 119 86 96 114 96C145 96 163 122 158 151" fill="none" stroke="#58C8FF" stroke-width="10" stroke-linecap="round"/></g>
   <text x="346" y="70" fill="#5EAFFF" font-family="Consolas, monospace" font-size="22" font-weight="700" letter-spacing="3">01 / WINDOWS DESKTOP</text>
   <text x="346" y="151" fill="#F3F7FF" font-family="Arial, sans-serif" font-size="60" font-weight="900" letter-spacing="-2">OBS CONTROL CENTER</text>

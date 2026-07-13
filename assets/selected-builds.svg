@@ -2,6 +2,6 @@
   <rect width="1600" height="160" fill="#03050A"/>
   <text x="12" y="42" fill="#5EAFFF" font-family="Consolas, monospace" font-size="22" font-weight="700" letter-spacing="3">WORK / 02</text>
   <text x="8" y="122" fill="#F3F7FF" font-family="Arial, sans-serif" font-size="68" font-weight="900" letter-spacing="-2">SELECTED BUILDS</text>
-  <line x1="650" y1="100" x2="1160" y2="100" stroke="#164A80" stroke-width="2"/>
+  <line x1="760" y1="105" x2="1160" y2="105" stroke="#164A80" stroke-width="2"/>
   <text x="1590" y="108" text-anchor="end" fill="#6F89A8" font-family="Consolas, monospace" font-size="21">THREE SYSTEMS  /  ONE OWNER</text>
 </svg>

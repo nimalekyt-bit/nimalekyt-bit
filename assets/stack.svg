@@ -1,4 +1,5 @@
 <svg width="1600" height="270" viewBox="0 0 1600 270" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="270" fill="#03050A"/>
   <rect x="2" y="2" width="1596" height="266" rx="28" fill="#05070D" stroke="#164A80" stroke-width="3"/>
   <text x="64" y="70" fill="#5EAFFF" font-family="Consolas, monospace" font-size="22" font-weight="700" letter-spacing="3">TOOLBOX / 04</text>
   <text x="64" y="137" fill="#F3F7FF" font-family="Arial, sans-serif" font-size="52" font-weight="900">CORE STACK</text>

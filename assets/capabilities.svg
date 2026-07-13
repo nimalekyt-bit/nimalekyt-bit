@@ -1,4 +1,5 @@
 <svg width="1600" height="520" viewBox="0 0 1600 520" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="520" fill="#03050A"/>
   <rect x="2" y="2" width="1596" height="516" rx="28" fill="#05070D" stroke="#164A80" stroke-width="3"/>
   <text x="64" y="72" fill="#5EAFFF" font-family="Consolas, monospace" font-size="22" font-weight="700" letter-spacing="3">CAPABILITIES / 03</text>
   <text x="64" y="146" fill="#F3F7FF" font-family="Arial, sans-serif" font-size="58" font-weight="900" letter-spacing="-2">FROM BRIEF TO PRODUCTION</text>
